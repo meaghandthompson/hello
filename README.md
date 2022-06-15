@@ -17,3 +17,4 @@ hello
 ### Description
 
 Will ask the user to enter a name and say "Hello" to them.
+Please limit name to 25 characters or less.
