@@ -17,5 +17,3 @@ hello
 ### Description
 
 Will ask the user to enter a name and say "Hello" to them.
-
-meg1 was here and meg2 was here
